@@ -64,7 +64,7 @@ In short, top level spaces are community identifiers limited to \~3600 spaces a 
 
 ### Opening an auction <a href="#opening-an-auction" id="opening-an-auction"></a>
 
-You can check the [explorer](https://explorer.spacesprotocol.org) for currently open auctions . For example to open an auction for the space `@bitcion`
+You can check the [explorer](https://explorer.spacesprotocol.org) for currently open auctions . For example to open an auction for the space `@bitcoin`
 
 ```bash
 space-cli open bitcoin
